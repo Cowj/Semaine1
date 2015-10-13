@@ -23,3 +23,5 @@ Réussir cette formation car le développement m'intéresse beaucoup
 
 Pour apprendre le développement, me familiariser avec les langages informatiques, et essayer de bien comprendre et d'etre à l'aide dans cet univers
 
+git add README.md
+
